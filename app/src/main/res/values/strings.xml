@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="networkUnavailable">Please check your internet connection.</string>
+    <string name="someErrorOccurred">Something went wrong</string>
+
+    <string name="robotoSlab_bold">font/RobotoSlab_Bold.ttf</string>
+    <string name="robotoSlab_regular">font/RobotoSlab_Regular.ttf</string>
+    <string name="error_msg">Please Try Again Later</string>
+
+</resources>
